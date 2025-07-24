@@ -29,6 +29,7 @@ To understand the key factors influencing employee attrition and build a machine
 6. **Power BI Dashboard**:
    - KPIs: Attrition Rate, Avg Income (Leavers)
    - Visuals: Attrition by Department, Job Role, AgeGroup, Gender, OverTime
+![HR Analysis_page-0001](https://github.com/user-attachments/assets/147ea2ce-077f-4ac7-92b9-4fb931eb2f9e)
 
 ### 📌 Deliverables
 - `HR_.ipynb`: Complete EDA and modeling notebook  
